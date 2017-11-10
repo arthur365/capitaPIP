@@ -97,9 +97,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">CONTACT US FORM</span><br><span style=\"font-weight: normal;\">YOU CAN CONTACT ME HERE</span>",
+          "title": "<span style=\"font-weight: normal;\">CONTACT &nbsp;FORM&nbsp;</span><br>",
           "subtitle": "",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
             "action": "cross-a@hotmail.co.uk",
             "alerts": {
@@ -142,7 +142,8 @@
             ".mbr-section-title SPAN": {
               "color": "#cccccc",
               "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "22px"
             }
           }
         },
@@ -290,7 +291,7 @@
               "size": 250
             }
           },
-          "title": "My video comming soon<br>what go;s on behind close doors now view thair letter of complant.<br>Assessment Process\n<div><br></div><br><div>The aim of a face-to-face assessment is for a Disability Assessor to gather sufficient factual information about the functional effects of your condition or disability in order to create a report for DWP’s decision makers. view my video</div>",
+          "title": "My video comming soon<br>what go;s on behind close doors,&nbsp;<br>Now view thair letter in regards to my complant.<br>Assessment Process was stage up by CAPITA not to take place watch this video.<div><br></div><br><div>The aim of a face-to-face assessment is for a Disability Assessor to gather sufficient factual information about the functional effects of your condition or disability in order to create a report for DWP’s decision makers. view my video</div>",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "_tags": [
             "Theme"
