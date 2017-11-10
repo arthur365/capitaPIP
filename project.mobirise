@@ -46,7 +46,7 @@
             },
             ".lead P": {
               "font-size": "22px",
-              "color": "#c0a375"
+              "color": "#cccccc"
             }
           },
           "_params": {
@@ -56,7 +56,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/black-275x183.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/redo-490x612.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#000000",
