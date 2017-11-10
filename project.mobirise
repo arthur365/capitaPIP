@@ -389,8 +389,8 @@
           "_params": {
             "showTitle": true,
             "showSubTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -401,7 +401,7 @@
             "overlayOpacity": 0.5
           },
           "title": "SUBSCRIBE FORM",
-          "subtitle": "Subscribe to our Newsletter",
+          "subtitle": "Please subscribe to our Newsletter",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
           "form": {
             "action": "cross-a@hotmail.co.uk",
