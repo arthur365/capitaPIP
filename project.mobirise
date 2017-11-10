@@ -1,0 +1,343 @@
+{
+  "settings": {
+    "name": "child abuse department for work pensions UK",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#e70a07",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#e70a07"
+      ]
+    },
+    "versionFirst": "4.2.3",
+    "uniqCompNum": 10,
+    "versionPublish": "4.2.3"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e70a07",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "CAPITA&nbsp;<br>On behalf of working P.I.P Gov North Wales<br>Personal Independence Payment (PIP) is a non means tested benefit for people aged between 16 and 64 who have a long term health condition or impairment. &nbsp;<br>Vitim of child abuse in the care of U.K Gov<br>Please help your self &nbsp;becouse others gov agents did.&nbsp;<br>FULL STOP.<br><br>",
+          "text": "",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-printer mbr-iconfont mbr-iconfont-btn\"></span>Letters from PIP Gov 2017</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-printer mbr-iconfont mbr-iconfont-btn\"></span>My Police statments in full</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-video mbr-iconfont mbr-iconfont-btn\"></span>My Video</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-briefcase mbr-iconfont mbr-iconfont-btn\"></span>High court documents</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-briefcase mbr-iconfont mbr-iconfont-btn\"></span>G.P Statments</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-profile-male mbr-iconfont mbr-iconfont-btn\"></span>S/S Gov Records</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\"></span>Capita complants Gov</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-sale mbr-iconfont mbr-iconfont-btn\"></span>Assessment Process</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-0",
+          "_styles": {
+            ".btn": {
+              "font-size": "16px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "color": "#000000",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#efefef",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img_20170815-1408x1332.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7c706b",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<span style=\"font-weight: normal;\">CONTACT US FORM</span><br><span style=\"font-weight: normal;\">YOU CAN CONTACT ME HERE</span>",
+          "subtitle": "",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "form": {
+            "action": "cross-a@hotmail.co.uk",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-6",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#efefef"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#cccccc",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            }
+          }
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Oswald",
+              "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "css": "'Oswald', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "30px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Oswald', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#e70a07!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/batted-ted-brout-up-in-care-of-liverpool-city-council.gif",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Child abuse in the care of the U.K Gov</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-8"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7c706b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img_20170815-1408x1332.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=STJo3qbhT08",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "My video comming soon<br>what go;s on behind close doors now view thair letter of complant.<br>Assessment Process\n<div><br></div><br><div>The aim of a face-to-face assessment is for a Disability Assessor to gather sufficient factual information about the functional effects of your condition or disability in order to create a report for DWP’s decision makers. view my video</div>",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-9",
+          "_styles": {
+            "H3": {
+              "font-size": "22px"
+            }
+          }
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#cccccc",
+              "font-size": "22px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e70a07",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "U.K FOLLOW US AND SHARE THIS PAGE WITH OTHERS",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-3"
+        }
+      ]
+    }
+  }
+}
