@@ -82,6 +82,65 @@
           }
         },
         {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#7c706b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/img_20170815-1408x1332.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/watch?v=STJo3qbhT08",
+              "aspectratio": "16:9",
+              "autoplay": "on",
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "THIS IS A DEMO VIDEO FOR NOW<br><br>My video comming soon when website compleat.&nbsp;<br>What go;s on behind close doors,&nbsp;<br>Now view thair letter in regards to my complant.<br>Assessment Process was stage up by CAPITA not to take place watch this video.<div><br></div><br><div>The aim of a face-to-face assessment is for a Disability Assessor to gather sufficient factual information about the functional effects of your condition or disability in order to create a report for DWP’s decision makers. view my video</div>",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-9",
+          "_styles": {
+            "H3": {
+              "font-size": "22px"
+            }
+          }
+        },
+        {
           "_params": {
             "showTitle": true,
             "showSubTitle": true,
@@ -245,65 +304,6 @@
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Child abuse in the care of the U.K Gov</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-8"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#7c706b",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img_20170815-1408x1332.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=STJo3qbhT08",
-              "aspectratio": "16:9",
-              "autoplay": "on",
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "THIS IS A DEMO VIDEO FOR NOW<br><br>My video comming soon when website compleat.&nbsp;<br>What go;s on behind close doors,&nbsp;<br>Now view thair letter in regards to my complant.<br>Assessment Process was stage up by CAPITA not to take place watch this video.<div><br></div><br><div>The aim of a face-to-face assessment is for a Disability Assessor to gather sufficient factual information about the functional effects of your condition or disability in order to create a report for DWP’s decision makers. view my video</div>",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-9",
-          "_styles": {
-            "H3": {
-              "font-size": "22px"
-            }
-          }
         },
         {
           "_inherit": "social-buttons2",

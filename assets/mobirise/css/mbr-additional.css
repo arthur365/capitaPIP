@@ -426,6 +426,9 @@ h6,
   color: #cccccc;
   font-family: 'Slabo 27px', serif;
 }
+#msg-box4-9 H3 {
+  font-size: 22px;
+}
 #form1-6 .form-control-label {
   color: #efefef;
 }
@@ -500,9 +503,6 @@ h6,
 #ext_menu-8 .link[aria-expanded="true"],
 #ext_menu-8 .dropdown-item[aria-expanded="true"] {
   color: #e70a07!important;
-}
-#msg-box4-9 H3 {
-  font-size: 22px;
 }
 #social-buttons4-3 .mbr-section-title,
 #social-buttons4-3 .btn-social {
