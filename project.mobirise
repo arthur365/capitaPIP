@@ -47,13 +47,18 @@
             ".lead P": {
               "font-size": "22px",
               "color": "#cccccc"
+            },
+            ".mbr-section-title": {
+              "color": "#cccccc",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "1",
+            "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/redo-490x612.png",
@@ -71,7 +76,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0"
           },
-          "title": "Welcome",
+          "title": "Welcome to my website.",
           "text": "<p>I am a victim of child abuse in the care of U.K Gov were systematic abused for years on end leaving my self with mental problems fact. This website will be updated daily by administrator and owner. Nov 2017</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
