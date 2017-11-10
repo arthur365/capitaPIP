@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.2.3",
-    "uniqCompNum": 13,
+    "uniqCompNum": 14,
     "versionPublish": "4.2.3"
   },
   "pages": {
@@ -39,6 +39,43 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/cHZJonuvshg?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=cHZJonuvshg",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": "0"
+          },
+          "title": "Welcome",
+          "text": "<p>Vitim of child abuse in the care of U.K Gov were systematic abused for years on end leaving them with  mental problems fact&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-d"
+        },
         {
           "_params": {
             "showTitle": true,

@@ -417,6 +417,10 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #e70a07;
 }
+#msg-box8-d .mbr-section-title,
+#msg-box8-d p {
+  color: #fff;
+}
 #header1-0 .btn {
   font-size: 16px;
   font-family: 'Oswald', sans-serif;
