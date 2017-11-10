@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
@@ -424,7 +424,8 @@ h6,
 #header1-0 .mbr-section-title {
   font-size: 32px;
   color: #cccccc;
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
 }
 #msg-box4-9 H3 {
   font-size: 22px;
@@ -439,6 +440,15 @@ h6,
   color: #cccccc;
   font-family: 'Bitter', serif;
   font-size: 22px;
+}
+#social-buttons4-3 .mbr-section-title,
+#social-buttons4-3 .btn-social {
+  color: #fff;
+}
+#social-buttons4-3 .mbr-section-title {
+  color: #cccccc;
+  font-size: 22px;
+  font-family: 'Oswald', sans-serif;
 }
 #ext_menu-8 .hide-buttons .nav-btn {
   display: none !important;
@@ -503,13 +513,4 @@ h6,
 #ext_menu-8 .link[aria-expanded="true"],
 #ext_menu-8 .dropdown-item[aria-expanded="true"] {
   color: #e70a07!important;
-}
-#social-buttons4-3 .mbr-section-title,
-#social-buttons4-3 .btn-social {
-  color: #fff;
-}
-#social-buttons4-3 .mbr-section-title {
-  color: #cccccc;
-  font-size: 22px;
-  font-family: 'Oswald', sans-serif;
 }

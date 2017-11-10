@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.2.3",
-    "uniqCompNum": 10,
+    "uniqCompNum": 13,
     "versionPublish": "4.2.3"
   },
   "pages": {
@@ -59,7 +59,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "CAPITA &nbsp;AND MY COMPLANTS<br>On behalf of working &nbsp;P.I.P Gov North Wales<br>Personal Independence Payment (PIP) is a non means tested benefit for people aged between 16 and 64 who have a long term health condition or impairment. &nbsp;<br>Vitim of child abuse in the care of U.K Gov<br>Please help your self &nbsp;becouse others gov agents did.&nbsp;<br>FULL STOP.<br><br>",
+          "title": "CAPITA &nbsp;AND MY COMPLANTS<br>On behalf of working &nbsp;P.I.P Gov North Wales<br>Personal Independence Payment (PIP) is a non means tested benefit for people aged between 16 and 64 who have a long term health condition or impairment. &nbsp;<br>Vitim of child abuse in the care of U.K Gov<br>Please help your self &nbsp;becouse others gov agents did.&nbsp;<br>FULL STOP.<br>All my links comming soon.<br><br>",
           "text": "",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-printer mbr-iconfont mbr-iconfont-btn\"></span>Letters from PIP Gov 2017</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-printer mbr-iconfont mbr-iconfont-btn\"></span>My Police statments in full</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-video mbr-iconfont mbr-iconfont-btn\"></span>My Video</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-briefcase mbr-iconfont mbr-iconfont-btn\"></span>High court documents</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-briefcase mbr-iconfont mbr-iconfont-btn\"></span>G.P Statments</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-profile-male mbr-iconfont mbr-iconfont-btn\"></span>S/S Gov Records</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\"></span>Capita complants Gov</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-sale mbr-iconfont mbr-iconfont-btn\"></span>Assessment Process</a> ",
           "_tags": [
@@ -76,8 +76,9 @@
             ".mbr-section-title": {
               "font-size": "32px",
               "color": "#cccccc",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "center"
             }
           }
         },
@@ -207,6 +208,69 @@
           }
         },
         {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-b"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#cccccc",
+              "font-size": "22px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#e70a07",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "U.K FOLLOW US AND SHARE THIS PAGE WITH OTHERS",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-3"
+        },
+        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -306,37 +370,34 @@
           "_anchor": "ext_menu-8"
         },
         {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#cccccc",
-              "font-size": "22px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          },
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#e70a07",
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
+          "title": "PRE MADE BLOCKS",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
           "_tags": [
             "Theme"
           ],
-          "text": "U.K FOLLOW US AND SHARE THIS PAGE WITH OTHERS",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-3"
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-c"
         }
       ]
     }
