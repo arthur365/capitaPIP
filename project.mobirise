@@ -360,9 +360,9 @@
               "src": "@PROJECT_PATH@/assets/images/batted-ted-brout-up-in-care-of-liverpool-city-council.gif",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "https://arthur365.github.io/capitaPIP/",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -373,7 +373,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Systematic Child abuse in the care of the U.K Gov</a>",
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://arthur365.github.io/capitaPIP/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">Systematic Child abuse in the care of the U.K Gov</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-8"
         },
