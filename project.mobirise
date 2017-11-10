@@ -132,7 +132,7 @@
             "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -168,7 +168,7 @@
               "size": 250
             }
           },
-          "title": "THIS IS A DEMO VIDEO FOR NOW<br><br>My video comming soon when website compleat.&nbsp;<br>What go's on behind close doors,&nbsp;<br>Now view thair letter in regards to my complant.<br>Assessment Process was stage up by CAPITA not to take place watch this video.<div><br></div><br><div>The aim of a face-to-face assessment is for a Disability Assessor to gather sufficient factual information about the functional effects of your condition or disability in order to create a report for DWP’s decision makers. view my video</div>Email: <a href=\"http://www.capita-pip.co.uk/en/complaints.html\" target=\"_blank\" class=\"text-primary\">complaints@capita-pip.co.uk</a><br><div><br></div>",
+          "title": "THIS IS A DEMO VIDEO FOR NOW<br><br>My video coming up soon when my website compleat.&nbsp;<br>What go's on behind close doors,&nbsp;<br>Now view thair letters in regards to my complant.<br>Assessment Process was stage up by CAPITA not to take place watch this video.<div><br></div><div>The aim of a face-to-face assessment is for a Disability Assessor to gather sufficient factual information about the functional effects of your condition or disability in order to create a report for DWP’s decision makers. </div><br><div>view my Capita video coming up very soon taken with a spy watch so glad i had it on the day to prove my case just for the records.</div>Email: <a href=\"http://www.capita-pip.co.uk/en/complaints.html\" target=\"_blank\" class=\"text-primary\">complaints@capita-pip.co.uk</a><br><div><br></div>",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "_tags": [
             "Theme"
@@ -178,7 +178,8 @@
           "_anchor": "msg-box4-9",
           "_styles": {
             "H3": {
-              "font-size": "22px"
+              "font-size": "22px",
+              "text-align": "left"
             }
           }
         },
