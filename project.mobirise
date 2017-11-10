@@ -52,18 +52,18 @@
             "paddingTop": "2",
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img_20170815-1408x1332.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#000000",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/cHZJonuvshg?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=cHZJonuvshg",
+              "url": "https://www.youtube.com/embed/t0kGRcd-IFY?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=t0kGRcd-IFY",
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": "0"
           },
@@ -153,7 +153,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=1rEPCotQzkI",
+              "src": "https://www.youtube.com/watch?v=q8CpJqeefyk",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": false
