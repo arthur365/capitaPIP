@@ -59,7 +59,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "CAPITA&nbsp;<br>On behalf of working P.I.P Gov North Wales<br>Personal Independence Payment (PIP) is a non means tested benefit for people aged between 16 and 64 who have a long term health condition or impairment. &nbsp;<br>Vitim of child abuse in the care of U.K Gov<br>Please help your self &nbsp;becouse others gov agents did.&nbsp;<br>FULL STOP.<br><br>",
+          "title": "CAPITA &nbsp;AND MY COMPLANTS<br>On behalf of working &nbsp;P.I.P Gov North Wales<br>Personal Independence Payment (PIP) is a non means tested benefit for people aged between 16 and 64 who have a long term health condition or impairment. &nbsp;<br>Vitim of child abuse in the care of U.K Gov<br>Please help your self &nbsp;becouse others gov agents did.&nbsp;<br>FULL STOP.<br><br>",
           "text": "",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-printer mbr-iconfont mbr-iconfont-btn\"></span>Letters from PIP Gov 2017</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-printer mbr-iconfont mbr-iconfont-btn\"></span>My Police statments in full</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-video mbr-iconfont mbr-iconfont-btn\"></span>My Video</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-briefcase mbr-iconfont mbr-iconfont-btn\"></span>High court documents</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-briefcase mbr-iconfont mbr-iconfont-btn\"></span>G.P Statments</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-profile-male mbr-iconfont mbr-iconfont-btn\"></span>S/S Gov Records</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\"></span>Capita complants Gov</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.capita-pip.co.uk/en/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-sale mbr-iconfont mbr-iconfont-btn\"></span>Assessment Process</a> ",
           "_tags": [
@@ -74,8 +74,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-title": {
-              "font-size": "36px",
-              "color": "#000000",
+              "font-size": "32px",
+              "color": "#cccccc",
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
@@ -88,14 +88,14 @@
             "labelsColor": "#efefef",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/img_20170815-1408x1332.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#7c706b",
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.8"
           },
           "title": "<span style=\"font-weight: normal;\">CONTACT &nbsp;FORM&nbsp;</span><br>",
           "subtitle": "",
@@ -252,14 +252,14 @@
             "showTitle": true,
             "showText": false,
             "showButtons": true,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#7c706b",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -291,7 +291,7 @@
               "size": 250
             }
           },
-          "title": "My video comming soon<br>what go;s on behind close doors,&nbsp;<br>Now view thair letter in regards to my complant.<br>Assessment Process was stage up by CAPITA not to take place watch this video.<div><br></div><br><div>The aim of a face-to-face assessment is for a Disability Assessor to gather sufficient factual information about the functional effects of your condition or disability in order to create a report for DWP’s decision makers. view my video</div>",
+          "title": "THIS IS A DEMO VIDEO FOR NOW<br><br>My video comming soon when website compleat.&nbsp;<br>What go;s on behind close doors,&nbsp;<br>Now view thair letter in regards to my complant.<br>Assessment Process was stage up by CAPITA not to take place watch this video.<div><br></div><br><div>The aim of a face-to-face assessment is for a Disability Assessor to gather sufficient factual information about the functional effects of your condition or disability in order to create a report for DWP’s decision makers. view my video</div>",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "_tags": [
             "Theme"
